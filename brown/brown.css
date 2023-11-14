@@ -1,0 +1,35 @@
+.pai {
+    
+    width: 1000px;
+    height: 200px;
+    display: flex;
+}
+.cimae {
+    background-color: black;
+    width: 656.6px;
+    height: 200px;
+    margin-right: 30px;
+}
+.cimad {
+    background-color: black;
+    width: 313.3px;
+    height: 200px;
+}
+.paimeio {
+    
+    width: 1000px;
+    height: 300px;
+    margin: 30px 0px;
+    display: flex;
+}
+
+.meio {
+    background-color: black;
+    width: 313.3px;
+    height: 300px;
+
+}
+.marge {
+    margin-right: 30px;
+    margin-left: 30px;
+}

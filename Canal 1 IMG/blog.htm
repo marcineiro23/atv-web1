@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        /* Estilos CSS para animação */
+        @keyframes slideIn {
+            from { opacity: 0; transform: translateY(100%); }
+            to { opacity: 1; transform: translateY(0%); }
+        }
+
+        .blog-post {
+            animation: slideIn 1s ease-in-out;
+        }
+    </style>
+</head>
+<body>
+    <h1>Meu Blog Animado</h1>
+
+    <div class="blog-post"> <!-- Div para o primeiro post -->
+        <h2>Título do Post 1</h2>
+        <p>Conteúdo do Post 1</p>
+    </div>
+
+    <div class="blog-post"> <!-- Div para o segundo post -->
+        <h2>Título do Post 2</h2>
+        <p>Conteúdo do Post 2</p>
+    </div>
+
+    <div class="blog-post"> <!-- Div para o terceiro post -->
+        <h2>Título do Post 3</h2>
+        <p>Conteúdo do Post 3</p>
+    </div>
+
+    <script>
+        // JavaScript para adicionar a classe de animação aos posts
+        var posts = document.getElementsByClassName("blog-post");
+        for (var i = 0; i < posts.length; i++) {
+            posts[i].classList.add("animated");
+        }
+    </script>
+</body>
+</html>

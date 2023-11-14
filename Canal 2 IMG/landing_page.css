@@ -1,0 +1,31 @@
+body {
+
+font-family: 'Open Sans', sans-serif;
+background-image:url(pexels-photo-1933900.png);
+background-size: cover;
+background-repeat: no-repeat;
+margin: 60px;
+padding: 60px;
+height: 400px;
+}  
+
+div {
+    height: 400px;
+}
+
+h1 {
+    text-shadow: 2px 2px 2px #1f1f1f;
+    text-align: center;
+    color: aliceblue;
+    margin: 40px;
+    font-size: 65px;
+}
+
+p {
+    
+    text-shadow: 2px 2px 2px #1f1f1f;
+    text-align: center;
+    color: aliceblue;
+    margin: 40px;
+    font-size: 20px;
+}

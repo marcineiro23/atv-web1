@@ -1,0 +1,72 @@
+h1 {
+    color: rgb(28, 28, 129);
+    text-align: center;
+    text-shadow: 12px 12px 12px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    color: rgb(40, 40, 122);
+    text-align: center;
+    text-shadow: 12px 12px 12px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h3 {
+    color: rgb(78, 78, 78);
+    text-align: center;
+    text-shadow: 12px 12px 12px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#li1 {
+    font-size: 25px;
+}
+
+#li2 {
+    font-size: 25px;
+}
+
+#li3 {
+    font-size: 25px;
+}
+
+#li4 {
+    font-size: 25px;
+}
+
+#li5 {
+    font-size: 25px;
+}
+
+#p1 {
+    font-size: 25px;
+}
+
+#p2 {
+    font-size: 25px;
+}
+
+#p3 {
+    font-size: 25px;
+}
+
+#p4 {
+    font-size: 25px;
+}
+
+#p5 {
+    font-size: 25px;
+}
+
+#p6 {
+    font-size: 25px;
+}
+
+#p7 {
+    font-size: 25px;
+}
+
+#a {
+    font-size: 25px; 
+}

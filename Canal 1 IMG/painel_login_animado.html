@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Painel de Login Animado</title>
+   <style>
+      body {
+         font-family: Arial, sans-serif;
+         background-color: #f4f4f4;
+         display: flex;
+         justify-content: center;
+         align-items: center;
+         height: 100vh;
+      }
+      
+      .login-panel {
+         background-color: #fff;
+         border-radius: 5px;
+         box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+         padding: 20px;
+         width: 300px;
+         animation: fadein 1s;
+      }
+      
+      @keyframes fadein {
+         from { opacity: 0; }
+         to   { opacity: 1; }
+      }
+      
+      .login-panel input[type="text"],
+      .login-panel input[type="password"] {
+         width: 100%;
+         padding: 10px;
+         margin-bottom: 10px;
+      }
+      
+      .login-panel button {
+         width: 100%;
+         padding: 10px;
+         background-color: #4CAF50;
+         color: #fff;
+         border: none;
+         border-radius: 5px;
+         cursor: pointer;
+      }
+      
+      .login-panel button:hover {
+         background-color: #45a049;
+      }
+   </style>
+</head>
+<body>
+   <div class="login-panel">
+      <h1>Login</h1>
+      <form>
+         <input type="text" placeholder="Usuário">
+         <input type="password" placeholder="Senha">
+         <button type="submit">Entrar</button>
+      </form>
+   </div>
+</body>
+</html>

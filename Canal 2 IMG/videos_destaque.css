@@ -1,0 +1,18 @@
+menu {
+    
+    font-family: Arial;
+
+}
+#h1 {
+    border-top: solid 5px #3268ba;
+    padding: 12px 12px 5px 10px;
+    background-color: #eeeff2;
+    color: #3268ba;
+}
+    
+#h2 {
+    border-top: solid 3px #3268ba;
+    padding: 15px ;
+     text-align: end;
+    background-color: #eeeff2;
+}

@@ -1,0 +1,39 @@
+#blocoprincipal {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+h2 {
+    margin-left: 15px;
+}
+#primeirobloco {
+    width: 350px;
+    height: 400px;
+    margin-right: 40px;
+    border: 20px;
+    color: aliceblue;
+background-color: red;
+}
+p {
+    margin-left: 15px;
+}
+button {
+    margin-left: 15px;
+}
+input {
+    margin-left: 15px;
+}
+img {
+    margin-left: 15px;
+}
+#segundobloco {
+    width: 400px;
+    height: 650px;
+    margin-right: 40px;
+    border: 20px;
+    color: aliceblue;
+background-color:black ;
+}
+#sexo {
+    display: flex;
+}
