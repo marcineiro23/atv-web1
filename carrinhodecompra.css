@@ -1,0 +1,55 @@
+#caixaprincipal {
+    display: flex;
+    justify-content: center;
+}
+#ResumoDoPedido {
+    margin-left: 80px;
+    height: 350px;
+    width: 250px;
+}
+#produto1 {
+    display: flex;
+    
+}
+input {
+    width: 90px;
+    height: 20px;
+    margin-top: 90px;
+    margin-left: 20px;
+}
+#p1 {
+    margin-top: 90px;
+    margin-left: 10px;
+}
+#produto2 {
+    display: flex;
+}
+#produto3 {
+    display: flex;
+}
+#lixeira {
+    margin-left: 50px;
+    margin-top: 70px;
+    width: 64px;
+    height: 64px;
+}
+#preco {
+    display: flex;
+}
+#numerodopreco {
+    margin-left: 50px;
+}
+#numerodopreco2 {
+    margin-left: 150px;
+}
+#Totalvalor {
+    margin-left: 96px;
+}
+button {
+    width: 250px;
+
+}
+#p3 {
+    margin-top: 90px;
+    margin-left: 45px;
+}
