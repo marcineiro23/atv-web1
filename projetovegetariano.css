@@ -1,0 +1,237 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color:aliceblue;
+}
+#pai {
+    display: flex;
+    
+}
+
+#filho1 {
+    width: 350px;
+    height: 579px;
+    background-color: aliceblue;
+    margin-top: 20px;
+    margin-left: 0px;
+    text-align: center;
+    color: black;
+    
+}
+#filho2 {
+    width: 350px;
+    height: 579px;
+    background-color: aliceblue;
+    margin-top: 20px;
+    margin-left: 50px;
+    text-align: center;
+    color: black;
+}
+#filho3 {
+    width: 350px;
+    height: 579px;
+    background-color: aliceblue;
+    margin-top: 20px;
+    margin-left: 50px;
+    text-align: center;
+    color: black;
+}
+img {
+    max-width: 230px;
+    max-height: 400px;
+}
+.button-88 {
+    display: flex;
+    align-items: center;
+    font-family: inherit;
+    font-weight: 500;
+    font-size: 16px;
+    padding: 0.7em 1.4em 0.7em 1.1em;
+    color: white;
+    background: #ad5389;
+    background: linear-gradient(0deg, rgba(20, 167, 62, 1) 0%, rgba(102, 247, 113, 1) 100%);
+    border: none;
+    box-shadow: 0 0.7em 1.5em -0.5em #14a73e98;
+    letter-spacing: 0.05em;
+    border-radius: 20em;
+    cursor: pointer;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    margin-left: 130px;
+}
+
+.button-88:hover {
+    box-shadow: 0 0.5em 1.5em -0.5em #14a73e98;
+}
+
+.button-88:active {
+    box-shadow: 0 0.3em 1em -0.5em #14a73e98;
+}
+#pai2 {
+    
+    width: 1300px;
+    height: 259px;
+    background-image: url(banner\ para\ site.png);
+}
+#filho6 {
+    display: flex;
+width: 500px;
+height: 700px;
+margin-top: 10px;
+
+}
+#botaodepesquisa {
+width: 300px;
+height: 30px;
+margin-top: 80px;
+}
+
+#pesquisa {
+    width: 300px;
+    height: 300px;
+    margin-top: 80px;
+    margin-left: 350px;
+}
+#compra {
+    margin-top: 50px;
+    margin-left: 250px;
+    
+}
+#logocompra {
+    width: 100px;
+    height: 100px;
+}
+#logo {
+    width: 350px;
+    height: 200px;
+}
+#logo2 {
+    margin-top: 23px;
+    width: 160px;
+    height: 160px;
+}
+    #rodape {
+        width: 1300px;
+        height: 500px;
+        display: flex;
+        background-color: black;
+    }
+    #sub-rodape {
+        width: 1300px;
+        height: 150px;
+        margin-top: 40px;
+        background-color: red;
+        text-align: center;
+    }
+    #letrasdoroda {
+        width: 300px;
+        height: 500px;
+        margin-top: 0px;
+        color: aliceblue;
+        margin-left: 30px;
+    }
+    #a2 {
+        text-decoration: none;
+        color:aliceblue;
+    }
+    #formasdepague {
+        width: 1300px;
+        height: 106px;
+        background-color: red;
+    }
+    #forma {
+        display: flex;
+    }
+    #h21 {
+        width: 250px;
+        margin-top: 0px;
+        margin-left: 15px;
+        text-align:center;
+        color: aliceblue;
+    }
+    #visa {
+        width: 90px;
+        height: 40px;
+    }
+    #boleto {
+        width: 120px;
+        height: 80px;
+        margin-left: 10px;
+    }
+    #pix {
+        width: 100px;
+        height: 90px;
+        margin-left: 10px;
+    }
+    #caixa {
+        width: 100px;
+        height: 90px;
+        margin-left: 10px;
+    }
+    #paypal {
+        width: 100px;
+        height: 90px;
+        margin-left: 10px;
+    }
+    #hipercard {
+        width: 120px;
+        height: 90px;
+        margin-left: 10px;
+    }
+    #elo {
+        width: 120px;
+        height: 90px;
+        margin-left: 10px;
+    }
+    input {
+        width: 150px;
+        height: 30px;
+        margin-top: 0px;
+        margin-left: 0px;
+    }
+    #barradepesquisa {
+        width: 80px;
+        height: 30px;
+        margin-top: 0px;
+        margin-left: 0px;
+    }
+    #centraldeatendimento {
+        width: 1300px;
+        height: 400px;
+        background-color: black;
+        display: flex;
+    }
+    #a3{
+        text-decoration: none;
+        color:aliceblue;
+        margin-left: 35px;
+    }
+    #logos{
+        width: 1300px;
+        height: 100px;
+        display: flex;
+        background-color: red;
+    }
+    svg {
+        width: 80px;
+        margin-left: 280px;
+    }
+    #logoescrita {
+        margin-top: 40px;
+            color: aliceblue;
+    }
+    #redessociais {
+        width: 400px;
+        height: 60px;
+        margin-left: 70px;
+        margin-top: 170px;
+        background-color: rgb(117, 117, 117);
+    }
+    #certificado {
+        margin-left: 490px;
+        margin-top: 100px;
+    }
+    #letraredes {
+        margin-left: px;
+    }

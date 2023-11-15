@@ -1,0 +1,43 @@
+#pai2 {
+    
+    width: 1300px;
+    height: 259px;
+    background-image: url(banner\ para\ site.png);
+}
+#filho6 {
+    display: flex;
+width: 500px;
+height: 700px;
+margin-top: 10px;
+
+}
+button {
+width: 90px;
+height: 20px;
+margin-top: 80px;
+}
+img {
+width: 100px;
+height: 100px;
+margin-left: 10px;
+}
+#pesquisa {
+    width: 300px;
+    height: 300px;
+    margin-top: 80px;
+    margin-left: 350px;
+}
+#compra {
+    margin-top: 50px;
+    margin-left: 250px;
+    
+}
+#logo {
+    width: 350px;
+    height: 200px;
+}
+#logo2 {
+    margin-top: 23px;
+    width: 160px;
+    height: 160px;
+}
