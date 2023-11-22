@@ -15,6 +15,10 @@ body {
     margin-top: 0px;
     background-color: aliceblue;
 }
+#imagem1 {
+    width: 20;
+    margin-top: 0px;
+}
 body {
     height: 100%;
     width: 100%;
@@ -23,7 +27,7 @@ body {
     background-color: blue;
     color: white;
     justify-content: center;
-    margin-left: 540px;
+    margin-left: 340px;
     margin-top: px;
     padding: 15px 25px;
     text-decoration: none;
