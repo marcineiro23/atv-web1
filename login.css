@@ -1,15 +1,50 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color:aliceblue;
+}
 #blocoprincipal {
     display: flex;
     justify-content: center;
+}
+#botaodepesquisa {
+    width: 250px;
+    height: 20px;
+    margin-top: 80px;
+}
+#pesquisa {
+    width: 300px;
+    height: 300px;
+    margin-top: 80px;
+    margin-left: 350px;
+}
+#compra {
     margin-top: 50px;
+    margin-left: 250px;  
+}
+#logocompra {
+    width: 100px;
+    height: 100px;
+}
+#pai2 {
+    width: 1300px;
+    height: 259px;
+    background-image: url(banner\ para\ site.png);
+}
+#filho6 {
+    display: flex;
+width: 500px;
+height: 700px;
+margin-top: 0px;
 }
 h2 {
     margin-left: 15px;
 }
 #primeirobloco {
     width: 350px;
-    height: 400px;
-    margin-right: 40px;
+    height: 420px;
+    margin-right: 70px;
+    margin-top: 15gitwda0px;
     border: 20px;
     color: aliceblue;
 background-color: red;
@@ -28,12 +63,127 @@ img {
 }
 #segundobloco {
     width: 400px;
-    height: 650px;
+    height: 770px;
     margin-right: 40px;
+    margin-top: 50px;
     border: 20px;
     color: aliceblue;
 background-color:black ;
 }
 #sexo {
     display: flex;
+}
+#rodape {
+    width: 1300px;
+    height: 500px;
+    display: flex;
+    background-color: black;
+    margin-top: 50px;
+}
+#sub-rodape {
+    width: 1300px;
+    height: 150px;
+    margin-top: 40px;
+    background-color: red;
+    text-align: center;
+}
+#letrasdoroda {
+    width: 300px;
+    height: 500px;
+    margin-top: 0px;
+    color: aliceblue;
+    margin-left: 30px;
+}
+#a2 {
+    text-decoration: none;
+    color:aliceblue;
+}
+#formasdepague {
+    width: 1300px;
+    height: 106px;
+    background-color: red;
+}
+#forma {
+    display: flex;
+}
+#h21 {
+    width: 250px;
+    margin-top: 0px;
+    margin-left: 15px;
+    text-align:center;
+    color: aliceblue;
+}
+#visa {
+    width: 90px;
+    height: 40px;
+}
+#boleto {
+    width: 120px;
+    height: 80px;
+    margin-left: 10px;
+}
+#pix {
+    width: 100px;
+    height: 90px;
+    margin-left: 10px;
+}
+#caixa {
+    width: 100px;
+    height: 90px;
+    margin-left: 10px;
+}
+#paypal {
+    width: 100px;
+    height: 90px;
+    margin-left: 10px;
+}
+#hipercard {
+    width: 120px;
+    height: 90px;
+    margin-left: 10px;
+}
+#elo {
+    width: 120px;
+    height: 90px;
+    margin-left: 10px;
+}
+input {
+    width: 150px;
+    height: 30px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+#barradepesquisa {
+    width: 80px;
+    height: 30px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+#a3{
+    text-decoration: none;
+    color:aliceblue;
+    margin-left: 35px;
+}
+#logos{
+    width: 1300px;
+    height: 100px;
+    display: flex;
+    background-color: red;
+}
+svg {
+    width: 80px;
+    margin-left: 280px;
+}
+#logoescrita {
+    margin-top: 40px;
+        color: aliceblue;
+}
+
+
+#letraredes {
+    margin-left: px;
+}
+#login {
+    margin-top: 0px;
 }
