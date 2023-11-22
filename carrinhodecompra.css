@@ -1,13 +1,209 @@
-#caixaprincipal {
+body {
     display: flex;
     justify-content: center;
+    background-color:aliceblue;
+}
+#caixaprincipal {
+    display: flex;
+}
+#filho1 {
+    width: 1300px;
+    height: 300px;
+    background-image:url(https://www.gsuplementos.com.br/tema/growth/img/home/banners/banner1.png);
+
+}
+body {
+    height: 100%;
+    width: 100%;
+}
+#pai2 {
+    
+    width: 1300px;
+    height: 259px;
+    background-image: url(banner\ para\ site.png);
+}
+#filho6 {
+    display: flex;
+width: 500px;
+height: 700px;
+margin-top: 10px;
+
+}
+button {
+width: 300px;
+height: 30px;
+margin-top: 80px;
+}
+#botaodepesquisa {
+    height: 20px;
+    margin-top: 90px;
+}
+#pesquisa {
+    width: 300px;
+    height: 300px;
+    margin-top: 0px;
+    margin-left: 350px;
+}
+#compra {
+    margin-top: 50px;
+    margin-left: 250px;
+    
+}
+#logocompra {
+    width: 100px;
+    height: 100px;
+}
+#logo {
+    width: 350px;
+    height: 200px;
+}
+#logo2 {
+    margin-top: 23px;
+    width: 160px;
+    height: 160px;
+}
+#rodape {
+    width: 1300px;
+    height: 500px;
+    display: flex;
+    background-color: black;
+}
+#sub-rodape {
+    width: 1300px;
+    height: 150px;
+    margin-top: 40px;
+    background-color: red;
+    text-align: center;
+}
+#letrasdoroda {
+    width: 300px;
+    height: 500px;
+    margin-top: 0px;
+    color: aliceblue;
+    margin-left: 30px;
+}
+#a2 {
+    text-decoration: none;
+    color:aliceblue;
+}
+#formasdepague {
+    width: 1300px;
+    height: 106px;
+    background-color: red;
+}
+#forma {
+    display: flex;
+}
+#h21 {
+    width: 250px;
+    margin-top: 0px;
+    margin-left: 15px;
+    text-align:center;
+    color: aliceblue;
+}
+#visa {
+    width: 90px;
+    height: 40px;
+}
+#boleto {
+    width: 120px;
+    height: 80px;
+    margin-left: 10px;
+}
+#pix {
+    width: 100px;
+    height: 90px;
+    margin-left: 10px;
+}
+#caixa {
+    width: 100px;
+    height: 90px;
+    margin-left: 10px;
+}
+#paypal {
+    width: 100px;
+    height: 90px;
+    margin-left: 10px;
+}
+#hipercard {
+    width: 120px;
+    height: 90px;
+    margin-left: 10px;
+}
+#elo {
+    width: 120px;
+    height: 90px;
+    margin-left: 10px;
+}
+input {
+    width: 150px;
+    height: 30px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+#barradepesquisa {
+    width: 80px;
+    height: 30px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+#a3{
+    text-decoration: none;
+    color:aliceblue;
+    margin-left: 35px;
+}
+#logos{
+    width: 1300px;
+    height: 100px;
+    display: flex;
+    background-color: red;
+}
+svg {
+    width: 80px;
+    margin-left: 280px;
+}
+#logoescrita {
+    margin-top: 40px;
+        color: aliceblue;
+}
+#imagem1 {
+    margin-top: 110px;
+    width: 50px;
+    height: 50px;
+}
+#imagem2 {
+    margin-top: 110px;
+    width: 50px;
+    height: 50px;
+}
+#imagem3 {
+    margin-top: 110px;
+    width: 50px;
+    height: 50px;
+}
+#produto {
+    width: 460px;
+    width: 600px;
+    border: 6px solid black;
+}
+#letraredes {
+    margin-left: px;
+}
+#login {
+    margin-top: 0px;
+}
+#escritadoproduto {
+    margin-left: 100px;
 }
 #ResumoDoPedido {
-    margin-left: 80px;
-    height: 350px;
-    width: 250px;
+    margin-left: 40px;
+    height: 450px;
+    width: 450px;
+    border: 6px solid black;
 }
 #produto1 {
+    
     display: flex;
     
 }
@@ -15,11 +211,12 @@ input {
     width: 90px;
     height: 20px;
     margin-top: 90px;
-    margin-left: 20px;
+    margin-left: 80px;
 }
 #p1 {
     margin-top: 90px;
     margin-left: 10px;
+    width: 4px;
 }
 #produto2 {
     display: flex;
@@ -35,6 +232,9 @@ input {
 }
 #preco {
     display: flex;
+    margin-left: 75px;
+    height: 40px;
+    
 }
 #numerodopreco {
     margin-left: 50px;
@@ -45,11 +245,16 @@ input {
 #Totalvalor {
     margin-left: 96px;
 }
-button {
+#botaocontinuar {
     width: 250px;
-
+    height: 30px;
+margin-left: 85px;
 }
 #p3 {
     margin-top: 90px;
+    margin-left: 75px;
+}
+#p2 {
+    margin-top: 50px;
     margin-left: 45px;
 }
