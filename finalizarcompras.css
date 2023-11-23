@@ -1,0 +1,56 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color:aliceblue;
+}
+#pai2 {
+    
+    width: 1300px;
+    height: 259px;
+    background-image: url(banner\ para\ site.png);
+}
+#filho6 {
+    display: flex;
+width: 500px;
+height: 700px;
+margin-top: 10px;
+}
+#filho6 {
+    display: flex;
+width: 500px;
+height: 700px;
+margin-top: 10px;
+}
+button {
+    width: 300px;
+    height: 30px;
+    margin-top: 80px;
+    }
+    #botaodepesquisa {
+        height: 20px;
+        margin-top: 90px;
+    }
+    #pesquisa {
+        width: 300px;
+        height: 300px;
+        margin-top: 90px;
+        margin-left: 350px;
+    }
+    #compra {
+        margin-top: 50px;
+        margin-left: 250px;
+        
+    }
+    #logocompra {
+        width: 100px;
+        height: 100px;
+    }
+    #logo {
+        width: 350px;
+        height: 200px;
+    }
+    #logo2 {
+        margin-top: 23px;
+        width: 160px;
+        height: 160px;
+    }
