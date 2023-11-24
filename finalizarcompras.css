@@ -54,3 +54,181 @@ button {
         width: 160px;
         height: 160px;
     }
+    #pai {
+        display: flex;
+    }
+    #meupreco {
+        margin-top: 60px;
+        width: 380px;
+        height: 250px;
+    }
+    #divisao {
+        display: flex;
+    }
+    #preço {
+        margin-left: 150px;
+    }
+    #preço1 {
+        margin-left: 180px;
+    }
+    #aplicar {
+        width: 70px;
+        height: 20px;
+        margin-top: 20px;
+    }
+    #pedido {
+        margin-top: 0px;
+        margin-left: px;
+    }
+    #subetotal1 {
+        
+    }
+    #resumodopedido {
+        margin-top: 60px;
+        margin-left: 450px;
+        width: 20%;
+        height: 100%;
+        border: solid rgb(182, 178, 178);
+    }
+    #subtotal {
+        margin-left: 00px;
+        margin-top: 0px;
+    }
+    #topo2 {
+        margin-top: 15px;
+    }
+    #frete {
+        margin-left: 150px;
+    }
+    #frete2 {
+        margin-left: 60px;
+    }
+    #frete3 {
+        margin-left: 165px;
+    }
+    #frete4 {
+        margin-left: 145px;
+        margin-top: 25px;
+    }
+    #pai3 {
+        margin-top: 40px;
+        margin-left: 830px;
+        width: 20%;
+        height: 15%;
+        border: solid rgb(182, 178, 178);
+    }
+    
+    #finalizarpedido {
+        
+        width: 200px;
+        margin-left: 25px;
+    }
+    #rodape {
+        width: 1300px;
+        height: 500px;
+        display: flex;
+        background-color: black;
+    }
+    #sub-rodape {
+        width: 1300px;
+        height: 150px;
+        margin-top: 40px;
+        background-color: red;
+        text-align: center;
+    }
+    #letrasdoroda {
+        width: 300px;
+        height: 500px;
+        margin-top: 0px;
+        color: aliceblue;
+        margin-left: 30px;
+    }
+    #a2 {
+        text-decoration: none;
+        color:aliceblue;
+    }
+    #formasdepague {
+        width: 1300px;
+        height: 106px;
+        background-color: red;
+    }
+    #forma {
+        display: flex;
+    }
+    #h21 {
+        width: 250px;
+        margin-top: 0px;
+        margin-left: 15px;
+        text-align:center;
+        color: aliceblue;
+    }
+    #visa {
+        width: 90px;
+        height: 40px;
+    }
+    #boleto {
+        width: 120px;
+        height: 80px;
+        margin-left: 10px;
+    }
+    #pix {
+        width: 100px;
+        height: 90px;
+        margin-left: 10px;
+    }
+    #caixa {
+        width: 100px;
+        height: 90px;
+        margin-left: 10px;
+    }
+    #paypal {
+        width: 100px;
+        height: 90px;
+        margin-left: 10px;
+    }
+    #hipercard {
+        width: 120px;
+        height: 90px;
+        margin-left: 10px;
+    }
+    #elo {
+        width: 120px;
+        height: 90px;
+        margin-left: 10px;
+    }
+    
+    #barradepesquisa {
+        width: 80px;
+        height: 30px;
+        margin-top: 0px;
+        margin-left: 0px;
+    }
+    
+    #a3{
+        text-decoration: none;
+        color:aliceblue;
+        margin-left: 35px;
+    }
+    #logos{
+        width: 1300px;
+        height: 100px;
+        display: flex;
+        background-color: red;
+    }
+    svg {
+        width: 80px;
+        margin-left: 280px;
+    }
+    #logoescrita {
+        margin-top: 40px;
+            color: aliceblue;
+    }
+    
+    
+    #letraredes {
+        margin-left: px;
+    }
+    #login {
+        margin-top: 0px;
+    }
+    
