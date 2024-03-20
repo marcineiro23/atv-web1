@@ -1,41 +1,15 @@
 body {
-    display: flex;
-    justify-content: center;
     background-color:aliceblue;
+}
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
 }
 #blocoprincipal {
     display: flex;
     justify-content: center;
-}
-#botaodepesquisa {
-    width: 250px;
-    height: 20px;
-    margin-top: 80px;
-}
-#pesquisa {
-    width: 300px;
-    height: 300px;
-    margin-top: 80px;
-    margin-left: 350px;
-}
-#compra {
-    margin-top: 50px;
-    margin-left: 250px;  
-}
-#logocompra {
-    width: 100px;
-    height: 100px;
-}
-#pai2 {
-    width: 1300px;
-    height: 259px;
-    background-image: url(banner\ para\ site.png);
-}
-#filho6 {
-    display: flex;
-width: 500px;
-height: 700px;
-margin-top: 0px;
 }
 h2 {
     margin-left: 15px;
@@ -47,14 +21,12 @@ h2 {
     margin-top: 200px;
     border: 20px;
     color: aliceblue;
-background-color: red;
+background-color: rgb(78, 78, 78);
 }
 p {
     margin-left: 15px;
 }
-button {
-    margin-left: 15px;
-}
+
 input {
     margin-left: 15px;
 }
@@ -74,8 +46,8 @@ background-color:black ;
     margin-left: 17px;
 }
 
-#sexo {
-    
+button {
+    margin-left: 15px;
 }
 #telefone {
     margin-left: 20px;
@@ -83,117 +55,39 @@ background-color:black ;
 #cadastrar {
     margin-left: 20px;
 }
-#rodape {
-    width: 1300px;
-    height: 500px;
-    display: flex;
-    background-color: black;
+#roda-pe {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
     margin-top: 50px;
 }
-#sub-rodape {
-    width: 1300px;
-    height: 150px;
-    margin-top: 40px;
-    background-color: red;
-    text-align: center;
+a {
+    color: #ddd;
 }
-#letrasdoroda {
-    width: 300px;
-    height: 500px;
-    margin-top: 0px;
-    color: aliceblue;
-    margin-left: 30px;
-}
-#a2 {
-    text-decoration: none;
-    color:aliceblue;
-}
-#formasdepague {
-    width: 1300px;
-    height: 106px;
-    background-color: red;
-}
-#forma {
+.rodape2 {
     display: flex;
+    
 }
-#h21 {
-    width: 250px;
-    margin-top: 0px;
-    margin-left: 15px;
-    text-align:center;
-    color: aliceblue;
+#p1 {
+    margin-left: 400px;
+    margin-top: 30px;
 }
-#visa {
-    width: 90px;
-    height: 40px;
+#p2 {
+    margin-left: 50px;
+    margin-top: 30px;
 }
-#boleto {
-    width: 120px;
-    height: 80px;
-    margin-left: 10px;
+#p3 {
+    margin-left: 400px;
 }
-#pix {
-    width: 100px;
-    height: 90px;
-    margin-left: 10px;
+#p4 {
+    margin-left: 200px;
 }
-#caixa {
-    width: 100px;
-    height: 90px;
-    margin-left: 10px;
+#p5 {
+    margin-left: 397px;
 }
-#paypal {
-    width: 100px;
-    height: 90px;
-    margin-left: 10px;
+#p6 {
+    margin-left: 200px;
 }
-#hipercard {
-    width: 120px;
-    height: 90px;
-    margin-left: 10px;
-}
-#elo {
-    width: 120px;
-    height: 90px;
-    margin-left: 10px;
-}
-input {
-    width: 150px;
-    height: 30px;
-    margin-top: 0px;
-    margin-left: 0px;
-}
-#barradepesquisa {
-    width: 80px;
-    height: 30px;
-    margin-top: 0px;
-    margin-left: 0px;
-}
-
-#a3{
+.siteoficial {
     text-decoration: none;
-    color:aliceblue;
-    margin-left: 35px;
-}
-#logos{
-    width: 1300px;
-    height: 100px;
-    display: flex;
-    background-color: red;
-}
-svg {
-    width: 80px;
-    margin-left: 280px;
-}
-#logoescrita {
-    margin-top: 40px;
-        color: aliceblue;
-}
-
-
-#letraredes {
-    margin-left: px;
-}
-#login {
-    margin-top: 0px;
 }

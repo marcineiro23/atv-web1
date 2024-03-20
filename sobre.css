@@ -1,0 +1,86 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+#padrasto {
+    display: flex;
+    justify-content: center;
+}
+#caixaprincipal {
+    width: 970px;
+}
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+}
+#desenvolvimento {
+    display: flex;
+}
+#dispelei {
+    display: flex;
+}
+#desenvolvimento2 {
+display: flex;
+margin-left: 150px;
+}
+#partiçao1 {
+    margin-left: 5px;
+}
+#partiçao2 {
+    margin-left: 5px;
+}
+#roda-pe {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+}
+input {
+    margin-top: 30px;
+    height: 20px;
+    width: 150px;
+}
+#sobre {
+    margin-left: 150px;
+}
+.sobre {
+    width: 450px;
+    height: 350px;
+    display: flex;
+    margin-left: 10px;
+}
+.valores {
+    margin-left: 300px;
+}
+a {
+    color: #ddd;
+}
+.rodape2 {
+    display: flex;
+}
+#p1 {
+    margin-left: 400px;
+    margin-top: 30px;
+}
+#p2 {
+    margin-left: 50px;
+    margin-top: 0px;
+}
+#p3 {
+    margin-left: 400px;
+}
+#p4 {
+    margin-left: 200px;
+}
+#p5 {
+    margin-left: 397px;
+}
+#p6 {
+    margin-left: 200px;
+}
+.siteoficial {
+    text-decoration: none;
+}

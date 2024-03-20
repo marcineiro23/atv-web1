@@ -1,0 +1,100 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+}
+#roda-pe {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    margin-top: 50px;
+}
+#dsc {
+    margin-top: 0px;
+    height: 20px;
+    width: 150px; 
+}
+#dsc2 {
+    margin-top: 0px;
+    height: 190px;
+    width: 250px; 
+}
+#bh {
+    width: 100px;
+    height: 30px;
+}
+#fi {
+     margin-top: 0px;
+     width: 350px;
+     height: 30px;
+}
+#sel {
+    margin-top: 0px;
+    height: 20px;
+    width: 150px; 
+}
+input {
+    margin-top: 30px;
+    height: 20px;
+    width: 150px;
+}
+.separação {
+    display: flex;
+    justify-content: center;
+}
+#relatorio {
+    width: 200px;
+    height: 350px;
+    margin-left: 150px;
+    
+}
+#caixote {
+    margin-left: 60px;
+}
+.produtividade {
+    display: flex;
+}
+#sobre {
+    text-align: center;
+}
+a {
+    color: #ddd;
+}
+.rodape2 {
+    display: flex;
+}
+#p1 {
+    margin-left: 200px;
+    margin-top: 30px;
+}
+#p2 {
+    margin-left: 50px;
+    margin-top: 0px;
+}
+#p3 {
+    margin-left: 200px;
+}
+#p4 {
+    margin-left: 200px;
+}
+#p5 {
+    margin-left: 200px;
+}
+#p6 {
+    margin-left: 200px;
+}
+select {
+    width: 150px;
+    height: 30px;
+}
+.siteoficial {
+    text-decoration: none;
+}

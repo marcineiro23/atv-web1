@@ -1,0 +1,125 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+}
+#tamanho {
+   display: flex;
+   justify-content: center;
+    
+}
+.login {
+    display: flex;
+    text-align: center;
+    margin-left: 250px;
+}
+input {
+    margin-top: 30px;
+    height: 20px;
+    width: 150px;
+    text-align: center;
+}
+#Pesquisar {
+    width: 72px;
+    height: 24px;
+}
+#compre {
+    margin-left: 2%;
+    margin-top: 22px;
+}
+.login2 {
+    text-align: center;
+    margin-top: 0px;
+    margin-left: px;
+}
+.login3 {
+    margin-top: 0px;
+    margin-left: px;
+}
+#CARRINHO {
+    margin-top: 0px;
+   margin-left: 5%; 
+}
+
+section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 2em;
+}
+
+.computer {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin: 1em;
+    padding: 1em;
+    width: 300px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.computer img {
+    max-width: 100%;
+    border-radius: 4px;
+}
+
+.buy-button {
+    display: block;
+    width: 100%;
+    padding: 0.5em;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 4px;
+    margin-top: 1em;
+    transition: background-color 0.3s ease;
+}
+
+.buy-button:hover {
+    background-color: #555;
+}
+#roda-pe {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+}
+a {
+    color: #ddd;
+}
+.rodape2 {
+    display: flex;
+}
+#p1 {
+    margin-left: 200px;
+    margin-top: 30px;
+}
+#p2 {
+    margin-left: 50px;
+    margin-top: 0px;
+}
+#p3 {
+    margin-left: 200px;
+}
+#p4 {
+    margin-left: 200px;
+}
+#p5 {
+    margin-left: 200px;
+}
+#p6 {
+    margin-left: 200px;
+}
+.siteoficial {
+    text-decoration: none;
+    font-family:Arial, Helvetica, sans-serif;
+    color: #555;
+}

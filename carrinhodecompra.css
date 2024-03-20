@@ -1,10 +1,19 @@
 body {
-    display: flex;
-    justify-content: center;
-    background-color:aliceblue;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
 }
 #caixaprincipal {
     display: flex;
+    justify-content: center;
 }
 #filho1 {
     width: 1300px;
@@ -256,4 +265,45 @@ margin-left: 85px;
 #p2 {
     margin-top: 50px;
     margin-left: 45px;
+}
+#roda-pe {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+}
+#roda-pe {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    margin-top: 50px;
+}
+a {
+    color: #ddd;
+}
+.rodape2 {
+    display: flex;
+}
+#p11 {
+    margin-left: 200px;
+    margin-top: 90px;
+}
+#p22 {
+    margin-left: 0px;
+    margin-top: 0px;
+}
+#p33 {
+    margin-left: 200px;
+}
+#p4 {
+    margin-left: 200px;
+}
+#p5 {
+    margin-left: 200px;
+}
+#p6 {
+    margin-left: 200px;
+}
+.siteoficial {
+    text-decoration: none;
+    
 }

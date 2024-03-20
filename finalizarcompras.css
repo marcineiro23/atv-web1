@@ -1,66 +1,34 @@
 body {
-    display: flex;
-    justify-content: center;
-    background-color:aliceblue;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
 }
-#pai2 {
-    
-    width: 1300px;
-    height: 259px;
-    background-image: url(banner\ para\ site.png);
-}
-#filho6 {
-    display: flex;
-width: 500px;
-height: 700px;
-margin-top: 10px;
-}
-#filho6 {
-    display: flex;
-width: 500px;
-height: 700px;
-margin-top: 10px;
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
 }
 button {
     width: 300px;
     height: 30px;
     margin-top: 80px;
     }
-    #botaodepesquisa {
-        height: 20px;
-        margin-top: 90px;
-    }
-    #pesquisa {
-        width: 300px;
-        height: 300px;
-        margin-top: 90px;
-        margin-left: 350px;
-    }
-    #compra {
-        margin-top: 50px;
-        margin-left: 250px;
-        
-    }
-    #logocompra {
-        width: 100px;
-        height: 100px;
-    }
-    #logo {
-        width: 350px;
-        height: 200px;
-    }
-    #logo2 {
-        margin-top: 23px;
-        width: 160px;
-        height: 160px;
-    }
+  
     #pai {
         display: flex;
+        justify-content: center;
     }
     #meupreco {
         margin-top: 60px;
         width: 380px;
         height: 250px;
+    }
+    #aplicar {
+        width: 70px;
+        height: 20px;
+        margin-top: 20px;
     }
     #divisao {
         display: flex;
@@ -71,29 +39,18 @@ button {
     #preço1 {
         margin-left: 180px;
     }
-    #aplicar {
-        width: 70px;
-        height: 20px;
-        margin-top: 20px;
-    }
     #pedido {
         margin-top: 0px;
         margin-left: px;
     }
-    #subetotal1 {
-        
-    }
     #resumodopedido {
         margin-top: 60px;
-        margin-left: 450px;
+        margin-left: 250px;
         width: 20%;
         height: 100%;
         border: solid rgb(182, 178, 178);
     }
-    #subtotal {
-        margin-left: 00px;
-        margin-top: 0px;
-    }
+    
     #topo2 {
         margin-top: 15px;
     }
@@ -112,9 +69,9 @@ button {
     }
     #pai3 {
         margin-top: 40px;
-        margin-left: 830px;
+        margin-left: 980px;
         width: 20%;
-        height: 15%;
+        height: 100%;
         border: solid rgb(182, 178, 178);
     }
     
@@ -123,112 +80,44 @@ button {
         width: 200px;
         margin-left: 25px;
     }
-    #rodape {
-        width: 1300px;
-        height: 500px;
-        display: flex;
-        background-color: black;
-    }
-    #sub-rodape {
-        width: 1300px;
-        height: 150px;
-        margin-top: 40px;
-        background-color: red;
+    #roda-pe {
         text-align: center;
+        background-color: #333;
+        color: #fff;
     }
-    #letrasdoroda {
-        width: 300px;
-        height: 500px;
-        margin-top: 0px;
-        color: aliceblue;
-        margin-left: 30px;
-    }
-    #a2 {
-        text-decoration: none;
-        color:aliceblue;
-    }
-    #formasdepague {
-        width: 1300px;
-        height: 106px;
-        background-color: red;
-    }
-    #forma {
-        display: flex;
-    }
-    #h21 {
-        width: 250px;
-        margin-top: 0px;
-        margin-left: 15px;
-        text-align:center;
-        color: aliceblue;
-    }
-    #visa {
-        width: 90px;
-        height: 40px;
-    }
-    #boleto {
-        width: 120px;
-        height: 80px;
-        margin-left: 10px;
-    }
-    #pix {
-        width: 100px;
-        height: 90px;
-        margin-left: 10px;
-    }
-    #caixa {
-        width: 100px;
-        height: 90px;
-        margin-left: 10px;
-    }
-    #paypal {
-        width: 100px;
-        height: 90px;
-        margin-left: 10px;
-    }
-    #hipercard {
-        width: 120px;
-        height: 90px;
-        margin-left: 10px;
-    }
-    #elo {
-        width: 120px;
-        height: 90px;
-        margin-left: 10px;
-    }
-    
-    #barradepesquisa {
-        width: 80px;
-        height: 30px;
-        margin-top: 0px;
-        margin-left: 0px;
-    }
-    
-    #a3{
-        text-decoration: none;
-        color:aliceblue;
-        margin-left: 35px;
-    }
-    #logos{
-        width: 1300px;
-        height: 100px;
-        display: flex;
-        background-color: red;
-    }
-    svg {
-        width: 80px;
-        margin-left: 280px;
-    }
-    #logoescrita {
-        margin-top: 40px;
-            color: aliceblue;
-    }
-    
-    
-    #letraredes {
-        margin-left: px;
-    }
-    #login {
-        margin-top: 0px;
-    }
-    
+
+#roda-pe {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    margin-top: 50px;
+}
+a {
+    color: #ddd;
+}
+.rodape2 {
+    display: flex;
+}
+#p11 {
+    margin-left: 200px;
+    margin-top: 50px;
+}
+#p22 {
+    margin-left: 50px;
+    margin-top: 50px;
+}
+#p33 {
+    margin-left: 200px;
+}
+#p4 {
+    margin-left: 200px;
+}
+#p5 {
+    margin-left: 200px;
+}
+#p6 {
+    margin-left: 200px;
+}
+.siteoficial {
+    text-decoration: none;
+}
